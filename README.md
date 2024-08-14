@@ -11,7 +11,7 @@ import (
 	"os"
 	"fmt"
 
-	ed "git.bilibili.co/bdjs/up-sign-library/excel"
+	ed "github.com/harddies/excel"
 )
 
 type BaseInfo struct {
